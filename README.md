@@ -5,6 +5,8 @@ Buddy Splits is a Python-based application designed to streamline the process of
 ## Usage
 - You need to setup your google api integration and download "client_secret.json" from google cloud platform. Place it in the same directory along with the scripts. Run the contactExtractor.py file first then the contactParser.py.
 - You may need to add yourself and your team members as test users for them to allow access.
+- Once the google account access has been granted. Make sure contacts.json file has been generated.
+- Run the UPI_generator.py file to generate a payment link
 
 ## UPDATE
 - The application is in development. There is no GUI as of now. I am learning KOTLIN to try to create an android app. Feel free to try the python scripts. If you are willing to contribute go right on ahead.
